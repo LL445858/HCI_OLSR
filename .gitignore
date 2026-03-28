@@ -1,6 +1,5 @@
 # log files
-text/*.txt
-text/position/*/*.txt
+text/**/*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
